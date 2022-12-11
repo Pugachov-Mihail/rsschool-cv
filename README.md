@@ -1,1 +1,1 @@
-https://Pugachov-Mihail.github.io/rsschool-cv/cv
+https://Pugachov-Mihail.github.io/rsschool-cv/cv.md
